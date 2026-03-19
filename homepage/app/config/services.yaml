@@ -1,0 +1,13 @@
+---
+# For configuration options and examples, please see:
+# https://gethomepage.dev/configs/services/
+
+- Meine sachen:
+    - Lachscloud:
+        href: http://data.Lachscloud.de
+        description: Lachscloud
+
+    - Lachsspeed:
+        href: http://speedtest.Lachscloud.de
+        description: Lachsspeed
+

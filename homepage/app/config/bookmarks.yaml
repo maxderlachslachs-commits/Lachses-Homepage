@@ -1,0 +1,19 @@
+---
+# For configuration options and examples, please see:
+# https://gethomepage.dev/configs/bookmarks
+
+- Developer:
+    - Github:
+        - abbr: GH
+          href: https://github.com/maxderlachslachs-commits
+
+
+- Entertainment:
+    - YouTube:
+        - abbr: YT
+          href: https://youtube.com/@benutzerlachs
+
+- Infos:        
+    - Discord:
+       - abbr: DC 
+         href: https://discord.gg/YECjhGApmS
